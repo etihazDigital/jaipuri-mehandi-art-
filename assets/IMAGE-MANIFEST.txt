@@ -1,0 +1,43 @@
+JAIPURI MEHANDI ART — IMAGE ASSET MANIFEST
+===========================================
+
+Every website image is in this single assets folder.
+
+ORIGINAL WEBSITE ART
+bridal-mehndi-editorial.png — Original editorial hero/gallery visual (AI-generated).
+instagram-qr-jaipuri-mehandi-artist.jpg — Client-supplied Instagram QR code.
+
+CLIENT PHOTO ARCHIVE — mehndi photos.zip
+mehndi-gallery-01.jfif — Elegant Full Hand Bridal Mehndi Design _ Dark Arabic Henna
+mehndi-gallery-02.jfif — Elegant Bridal Mehndi Design 2026 _ Full Hand Royal Henna Pattern for Brides
+mehndi-gallery-03.jfif — bridal mehndi
+mehndi-gallery-04.jfif — Bridal Mehndi Design _ Full Hand Henna
+mehndi-gallery-05.jfif — Unique Bracelet Style Baby Henna _ New Kids Mehndi Design
+mehndi-gallery-06.jfif — 7810999350310206
+mehndi-gallery-07.jfif — nice
+mehndi-gallery-08.jfif — Cute Barbie Mehndi Design for Kids
+mehndi-gallery-09.jfif — Cute Penguin Mehndi Design for Kids Hand _ Special Baby Mehndi
+mehndi-gallery-10.jfif — Elegant Bridal Mehndi Design for Front Hands _ Modern Arabic Henna Inspiration
+mehndi-gallery-11.jfif — Beautiful Arabic Mehndi Design for Hand _ Elegant Floral Henna Art
+mehndi-gallery-12.jfif — Arabic simple and easy mehndi designs
+mehndi-gallery-13.jfif — Elegant Floral Mehndi Design for Front Hand _ Simple Arabic Henna Ideas
+mehndi-gallery-14.jfif — Elegant Arabic Mehndi Design _ Floral & Paisley Henna Hand Art
+mehndi-gallery-15.jfif — Abstract Motifs Mirror Arabic Mehendi Design
+mehndi-gallery-16.jfif — Elegant Bridal Mehndi Design with Matte Maroon Nails
+mehndi-gallery-17.jfif — Latest Mehndi Design
+mehndi-gallery-18.jfif — Elegant Floral & Paisley Henna Ideas
+mehndi-gallery-19.jfif — Elegant Floral Mehndi Design for Front Hand _ Simple & Stylish Bridal Henna Inspiration
+mehndi-gallery-20.jfif — party type mehndi design
+mehndi-gallery-21.jfif — My Groom Mehndi
+mehndi-gallery-22.jfif — 20 Bride Groom Mehndi Designs for Meaningful
+mehndi-gallery-23.jfif — 40+ Latest Groom Mehndi Designs 2024 _ Groom Mehendi Design Images
+mehndi-gallery-24.jfif — Unique Groom Mehendi Designs to Add Charm to the Wedding Look
+mehndi-gallery-25.jfif — simple groom mehendi design
+mehndi-gallery-26.jfif — Groom Mehndi design
+mehndi-gallery-27.jfif — Elegant Groom Mehndi Designs for Modern Weddings
+mehndi-gallery-28.jfif — #mehndi #henna #mehndidesign #bridalmehndi #fyp
+mehndi-gallery-29.jfif — Mehndi Function _ Decor Ideas and Inspiration_ Photobooth _ Bar _ Mehendi Decor
+mehndi-gallery-30.jfif — Bridal Mehndi Design _ Full Hand Henna for Wedding
+
+The simplified names match the order of the supplied archive. All 30 client photos
+appear in the website gallery.
